@@ -1,6 +1,8 @@
 # Class List for 1.125 - Fall 2019
-Luciana,Bueno,lucianabueno
+
 First-Name,Last-Name,GithubID
+Luciana,Bueno,lucianabueno
+Nelson, Munoz, nmunoz1
 Sucharitha,Manyala,SucharithaManyala
 Mollie, LeBlanc, mollieleb13
 Takeshi, Fukatsu, tfukatsu
